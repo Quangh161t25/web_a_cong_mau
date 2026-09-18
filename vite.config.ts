@@ -127,6 +127,11 @@ function googleSheetsPlugin() {
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react(), googleSheetsPlugin()],
+  css: {
+    postcss: {
+      plugins: []
+    }
+  },
   resolve: {
     alias: {
       '@': path.resolve(__dirname, './src'),
@@ -138,3 +143,4 @@ export default defineConfig({
     host: true
   },
 });
+
