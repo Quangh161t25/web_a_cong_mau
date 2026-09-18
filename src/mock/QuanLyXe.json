@@ -1,0 +1,35 @@
+[
+  {
+    "id": "xe-01",
+    "bien_so": "51H-888.99",
+    "ten_xe": "Toyota Camry 2.5Q",
+    "loai_xe": "Xe 4 chỗ VIP",
+    "so_km": 35400,
+    "lai_xe": "Nguyễn Văn Thành",
+    "ten_lai_xe": "Nguyễn Văn Thành",
+    "ngay_het_han_dang_kiem": "2026-12-31",
+    "trang_thai": "Sẵn sàng"
+  },
+  {
+    "id": "xe-02",
+    "bien_so": "51F-678.90",
+    "ten_xe": "Ford Transit 16 chỗ",
+    "loai_xe": "Xe đưa đón",
+    "so_km": 82150,
+    "lai_xe": "Lê Hoàng Nam",
+    "ten_lai_xe": "Lê Hoàng Nam",
+    "ngay_het_han_dang_kiem": "2026-10-15",
+    "trang_thai": "Đang công tác"
+  },
+  {
+    "id": "xe-03",
+    "bien_so": "50A-123.45",
+    "ten_xe": "Isuzu Forward 5 Tấn",
+    "loai_xe": "Xe tải vận chuyển",
+    "so_km": 110200,
+    "lai_xe": "Phạm Minh Tuấn",
+    "ten_lai_xe": "Phạm Minh Tuấn",
+    "ngay_het_han_dang_kiem": "2026-08-20",
+    "trang_thai": "Bảo dưỡng"
+  }
+]

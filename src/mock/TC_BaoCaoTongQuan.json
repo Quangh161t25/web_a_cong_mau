@@ -1,0 +1,74 @@
+[
+  {
+    "chi_tieu": "1. Tổng doanh thu bán hàng & Dịch vụ",
+    "ky": "Quý 3",
+    "nam": 2026,
+    "thuc_hien": 4850000000,
+    "ke_hoach": 4500000000,
+    "ty_le": "107.8%",
+    "nhan_xet": "Vượt chỉ tiêu kế hoạch quý 3"
+  },
+  {
+    "chi_tieu": "2. Các khoản giảm trừ doanh thu",
+    "ky": "Quý 3",
+    "nam": 2026,
+    "thuc_hien": 50000000,
+    "ke_hoach": 80000000,
+    "ty_le": "62.5%",
+    "nhan_xet": "Kiểm soát chiết khấu tốt"
+  },
+  {
+    "chi_tieu": "3. Doanh thu thuần",
+    "ky": "Quý 3",
+    "nam": 2026,
+    "thuc_hien": 4800000000,
+    "ke_hoach": 4420000000,
+    "ty_le": "108.6%",
+    "nhan_xet": "Tăng trưởng tốt"
+  },
+  {
+    "chi_tieu": "4. Giá vốn hàng bán & Dịch vụ",
+    "ky": "Quý 3",
+    "nam": 2026,
+    "thuc_hien": 2150000000,
+    "ke_hoach": 2000000000,
+    "ty_le": "107.5%",
+    "nhan_xet": "Định mức trong tầm kiểm soát"
+  },
+  {
+    "chi_tieu": "5. Lợi nhuận gộp",
+    "ky": "Quý 3",
+    "nam": 2026,
+    "thuc_hien": 2650000000,
+    "ke_hoach": 2420000000,
+    "ty_le": "109.5%",
+    "nhan_xet": "Biên lợi nhuận gộp đạt 55.2%"
+  },
+  {
+    "chi_tieu": "6. Chi phí bán hàng & Marketing",
+    "ky": "Quý 3",
+    "nam": 2026,
+    "thuc_hien": 450000000,
+    "ke_hoach": 480000000,
+    "ty_le": "93.8%",
+    "nhan_xet": "Tiết kiệm chi phí Marketing"
+  },
+  {
+    "chi_tieu": "7. Chi phí quản lý doanh nghiệp",
+    "ky": "Quý 3",
+    "nam": 2026,
+    "thuc_hien": 680000000,
+    "ke_hoach": 700000000,
+    "ty_le": "97.1%",
+    "nhan_xet": "Đạt định biên quản trị"
+  },
+  {
+    "chi_tieu": "8. Lợi nhuận thuần trước thuế",
+    "ky": "Quý 3",
+    "nam": 2026,
+    "thuc_hien": 1520000000,
+    "ke_hoach": 1240000000,
+    "ty_le": "122.6%",
+    "nhan_xet": "Lợi nhuận vượt mức kỳ vọng 22.6%"
+  }
+]

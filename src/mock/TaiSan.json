@@ -1,0 +1,38 @@
+[
+  {
+    "id": "ts-001",
+    "ma_tai_san": "MBP-2023-01",
+    "ten_tai_san": "MacBook Pro 16 inch M2 Max",
+    "loai_tai_san": "Máy tính xách tay",
+    "nguoi_giu": "Nguyễn Văn Thành",
+    "ten_nguoi_su_dung": "Nguyễn Văn Thành",
+    "phong_ban": "Phòng Kỹ thuật",
+    "ten_phong_ban": "Phòng Kỹ thuật",
+    "nguyen_gia": 75000000,
+    "trang_thai": "Đang sử dụng"
+  },
+  {
+    "id": "ts-002",
+    "ma_tai_san": "SRV-DELL-02",
+    "ten_tai_san": "Máy chủ Dell PowerEdge R750",
+    "loai_tai_san": "Thiết bị mạng & Server",
+    "nguoi_giu": "Trần Thị Mai",
+    "ten_nguoi_su_dung": "Trần Thị Mai",
+    "phong_ban": "Phòng Kỹ thuật",
+    "ten_phong_ban": "Phòng Kỹ thuật",
+    "nguyen_gia": 180000000,
+    "trang_thai": "Đang hoạt động"
+  },
+  {
+    "id": "ts-003",
+    "ma_tai_san": "PRN-CANON-01",
+    "ten_tai_san": "Máy in Canon Laser đa chức năng",
+    "loai_tai_san": "Thiết bị văn phòng",
+    "nguoi_giu": "Lê Minh Công",
+    "ten_nguoi_su_dung": "Lê Minh Công",
+    "phong_ban": "Phòng Hành chính",
+    "ten_phong_ban": "Phòng Hành chính",
+    "nguyen_gia": 18500000,
+    "trang_thai": "Đang sử dụng"
+  }
+]

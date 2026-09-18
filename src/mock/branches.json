@@ -1,0 +1,29 @@
+[
+  {
+    "id": "branch-1",
+    "ma_chi_nhanh": "CN-HCM",
+    "ten_chi_nhanh": "Chi nhánh TP. Hồ Chí Minh",
+    "ma_vung": "MN",
+    "dia_chi": "Quận 1, TP. HCM",
+    "so_dien_thoai": "02838221122",
+    "trang_thai": "Đang hoạt động"
+  },
+  {
+    "id": "branch-2",
+    "ma_chi_nhanh": "CN-HN",
+    "ten_chi_nhanh": "Chi nhánh Hà Nội",
+    "ma_vung": "MB",
+    "dia_chi": "Cầu Giấy, Hà Nội",
+    "so_dien_thoai": "02437882233",
+    "trang_thai": "Đang hoạt động"
+  },
+  {
+    "id": "branch-3",
+    "ma_chi_nhanh": "CN-DN",
+    "ten_chi_nhanh": "Chi nhánh Đà Nẵng",
+    "ma_vung": "MT",
+    "dia_chi": "Hải Châu, Đà Nẵng",
+    "so_dien_thoai": "02363554455",
+    "trang_thai": "Đang hoạt động"
+  }
+]

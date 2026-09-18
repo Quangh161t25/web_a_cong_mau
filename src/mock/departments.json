@@ -1,0 +1,42 @@
+[
+  {
+    "id": "dep-0",
+    "ma_phong_ban": "PB-GD",
+    "ten_phong_ban": "Phòng Ban Giám đốc",
+    "cap_do": 1,
+    "trang_thai": "Đang hoạt động",
+    "duong_dan": "/dep-0"
+  },
+  {
+    "id": "dep-1",
+    "ma_phong_ban": "PB-TECH",
+    "ten_phong_ban": "Phòng Kỹ thuật",
+    "cap_do": 1,
+    "trang_thai": "Đang hoạt động",
+    "duong_dan": "/dep-1"
+  },
+  {
+    "id": "dep-2",
+    "ma_phong_ban": "PB-HR",
+    "ten_phong_ban": "Phòng Nhân sự",
+    "cap_do": 1,
+    "trang_thai": "Đang hoạt động",
+    "duong_dan": "/dep-2"
+  },
+  {
+    "id": "dep-3",
+    "ma_phong_ban": "PB-FIN",
+    "ten_phong_ban": "Phòng Tài chính - Kế toán",
+    "cap_do": 1,
+    "trang_thai": "Đang hoạt động",
+    "duong_dan": "/dep-3"
+  },
+  {
+    "id": "dep-4",
+    "ma_phong_ban": "PB-SALE",
+    "ten_phong_ban": "Phòng Kinh doanh",
+    "cap_do": 1,
+    "trang_thai": "Đang hoạt động",
+    "duong_dan": "/dep-4"
+  }
+]

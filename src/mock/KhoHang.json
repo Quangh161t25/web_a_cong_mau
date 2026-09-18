@@ -1,0 +1,32 @@
+[
+  {
+    "id": "kho-001",
+    "ma_vat_tu": "VT-001",
+    "ten_vat_tu": "Màn hình Dell UltraSharp 27 inch 4K",
+    "dvt": "Cái",
+    "so_luong_ton": 45,
+    "kho": "Kho Tổng TP.HCM",
+    "don_gia": 12500000,
+    "trang_thai": "Đủ tồn kho"
+  },
+  {
+    "id": "kho-002",
+    "ma_vat_tu": "VT-002",
+    "ten_vat_tu": "Bàn phím cơ không dây công thái học",
+    "dvt": "Chiếc",
+    "so_luong_ton": 120,
+    "kho": "Kho Tổng TP.HCM",
+    "don_gia": 2850000,
+    "trang_thai": "Đủ tồn kho"
+  },
+  {
+    "id": "kho-003",
+    "ma_vat_tu": "VT-003",
+    "ten_vat_tu": "Giấy in Double A A4 80gsm (Thùng 5 Ram)",
+    "dvt": "Thùng",
+    "so_luong_ton": 18,
+    "kho": "Kho Văn Phòng",
+    "don_gia": 340000,
+    "trang_thai": "Sắp hết hàng"
+  }
+]

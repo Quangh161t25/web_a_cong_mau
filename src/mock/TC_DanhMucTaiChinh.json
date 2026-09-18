@@ -1,0 +1,56 @@
+[
+  {
+    "id": "dm-1789663982568-jqs2",
+    "ma_danh_muc": "DT",
+    "ten_danh_muc": "Doanh thu bán hàng & dịch vụ",
+    "loai": "thu",
+    "thu_tu": 1,
+    "trang_thai": "Đang hoạt động",
+    "mo_ta": "Doanh thu kinh doanh cốt lõi"
+  },
+  {
+    "id": "dm-1789663982568-l1kv",
+    "ma_danh_muc": "DT-TC",
+    "ten_danh_muc": "Thu lãi tiền gửi ngân hàng & Đầu tư",
+    "loai": "thu",
+    "thu_tu": 2,
+    "trang_thai": "Đang hoạt động",
+    "mo_ta": "Doanh thu hoạt động tài chính"
+  },
+  {
+    "id": "dm-1789663982568-zqx9",
+    "ma_danh_muc": "CP-LUONG",
+    "ten_danh_muc": "Chi lương & Phụ cấp nhân sự",
+    "loai": "chi",
+    "thu_tu": 1,
+    "trang_thai": "Đang hoạt động",
+    "mo_ta": "Chi phí quỹ lương định kỳ"
+  },
+  {
+    "id": "dm-1789663982568-3qp3",
+    "ma_danh_muc": "CP-VP",
+    "ten_danh_muc": "Chi phí thuê văn phòng",
+    "loai": "chi",
+    "thu_tu": 2,
+    "trang_thai": "Đang hoạt động",
+    "mo_ta": "Chi phí cơ sở vật chất"
+  },
+  {
+    "id": "dm-1789663982568-r2s9",
+    "ma_danh_muc": "CP-MKT",
+    "ten_danh_muc": "Chi phí Marketing & Quảng cáo",
+    "loai": "chi",
+    "thu_tu": 3,
+    "trang_thai": "Đang hoạt động",
+    "mo_ta": "Chi phí truyền thông, tiếp thị"
+  },
+  {
+    "id": "dm-1789663982568-e5mp",
+    "ma_danh_muc": "CP-CCDC",
+    "ten_danh_muc": "Chi mua sắm công cụ dụng cụ & máy móc",
+    "loai": "chi",
+    "thu_tu": 4,
+    "trang_thai": "Đang hoạt động",
+    "mo_ta": "Chi phí trang thiết bị"
+  }
+]

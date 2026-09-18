@@ -1,0 +1,46 @@
+[
+  {
+    "id": "khcp-1789663982562-mfc4",
+    "ma_ke_hoach": "DT-2026-TECH",
+    "nam": 2026,
+    "ten_phong_ban": "Phòng Kỹ thuật",
+    "khoan_muc": "Hạ tầng Cloud & Thiết bị CNTT",
+    "du_toan": 500000000,
+    "thuc_chi": 320000000,
+    "con_lai": 180000000,
+    "trang_thai": "Đúng tiến độ"
+  },
+  {
+    "id": "khcp-1789663982562-ssim",
+    "ma_ke_hoach": "DT-2026-MKT",
+    "nam": 2026,
+    "ten_phong_ban": "Phòng Marketing",
+    "khoan_muc": "Chi phí truyền thông & Ads",
+    "du_toan": 600000000,
+    "thuc_chi": 410000000,
+    "con_lai": 190000000,
+    "trang_thai": "Đúng tiến độ"
+  },
+  {
+    "id": "khcp-1789663982562-l33o",
+    "ma_ke_hoach": "DT-2026-HR",
+    "nam": 2026,
+    "ten_phong_ban": "Phòng Hành chính - Nhân sự",
+    "khoan_muc": "Tuyển dụng, Đào tạo & Phúc lợi",
+    "du_toan": 400000000,
+    "thuc_chi": 215000000,
+    "con_lai": 185000000,
+    "trang_thai": "Đúng tiến độ"
+  },
+  {
+    "id": "khcp-1789663982562-1rmd",
+    "ma_ke_hoach": "DT-2026-OPS",
+    "nam": 2026,
+    "ten_phong_ban": "Phòng Vận hành",
+    "khoan_muc": "Chi phí thuê văn phòng & Tiện ích",
+    "du_toan": 800000000,
+    "thuc_chi": 540000000,
+    "con_lai": 260000000,
+    "trang_thai": "Đúng tiến độ"
+  }
+]

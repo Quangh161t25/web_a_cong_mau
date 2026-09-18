@@ -1,0 +1,44 @@
+[
+  {
+    "id": "emp-001",
+    "ma_nhan_vien": "NV-001",
+    "ho_ten": "Nguyễn Văn A",
+    "name": "Nguyễn Văn A",
+    "email": "nguyenvana@thanhcong-group.vn",
+    "so_dien_thoai": "0903123456",
+    "ten_phong_ban": "Phòng Kỹ thuật",
+    "ten_chuc_vu": "Trưởng phòng",
+    "ten_chi_nhanh": "Chi nhánh TP. Hồ Chí Minh",
+    "gioi_tinh": "nam",
+    "trang_thai": "Đang hoạt động",
+    "ngay_vao_lam": "2023-01-15"
+  },
+  {
+    "id": "emp-002",
+    "ma_nhan_vien": "NV-002",
+    "ho_ten": "Trần Thị B",
+    "name": "Trần Thị B",
+    "email": "tranthib@thanhcong-group.vn",
+    "so_dien_thoai": "0918765432",
+    "ten_phong_ban": "Phòng Tài chính - Kế toán",
+    "ten_chuc_vu": "Kế toán trưởng",
+    "ten_chi_nhanh": "Chi nhánh TP. Hồ Chí Minh",
+    "gioi_tinh": "nu",
+    "trang_thai": "Đang hoạt động",
+    "ngay_vao_lam": "2023-03-01"
+  },
+  {
+    "id": "emp-003",
+    "ma_nhan_vien": "NV-003",
+    "ho_ten": "Lê Văn C",
+    "name": "Lê Văn C",
+    "email": "levanc@thanhcong-group.vn",
+    "so_dien_thoai": "0987654321",
+    "ten_phong_ban": "Phòng Marketing",
+    "ten_chuc_vu": "Chuyên viên Marketing",
+    "ten_chi_nhanh": "Chi nhánh Hà Nội",
+    "gioi_tinh": "nam",
+    "trang_thai": "Đang hoạt động",
+    "ngay_vao_lam": "2023-06-10"
+  }
+]

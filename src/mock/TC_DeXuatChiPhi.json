@@ -1,0 +1,50 @@
+[
+  {
+    "id": "dxcp-1",
+    "so_phieu": "DXCP-2026-001",
+    "ngay": "2026-09-10",
+    "loai": "chi",
+    "ten_nguoi_de_xuat": "Nguyễn Văn Thành",
+    "id_nguoi_de_xuat": "",
+    "ten_tai_khoan": "Vietcombank - Công ty",
+    "tong_tien": 85000000,
+    "so_tien": 85000000,
+    "ten_nguoi_duyet": "Lê Minh Công",
+    "id_nguoi_duyet": "",
+    "trang_thai": "Đã phê duyệt",
+    "ghi_chu_duyet": "Duyệt mua sắm hạ tầng thiết bị",
+    "ghi_chu": "Duyệt mua sắm hạ tầng thiết bị"
+  },
+  {
+    "id": "dxcp-2",
+    "so_phieu": "DXCP-2026-002",
+    "ngay": "2026-09-12",
+    "loai": "chi",
+    "ten_nguoi_de_xuat": "Trần Thị Mai",
+    "id_nguoi_de_xuat": "",
+    "ten_tai_khoan": "Techcombank - Công ty",
+    "tong_tien": 60000000,
+    "so_tien": 60000000,
+    "ten_nguoi_duyet": "Lê Minh Công",
+    "id_nguoi_duyet": "",
+    "trang_thai": "Chờ duyệt",
+    "ghi_chu_duyet": "Tổ chức sự kiện nội bộ",
+    "ghi_chu": "Tổ chức sự kiện nội bộ"
+  },
+  {
+    "id": "dxcp-3",
+    "so_phieu": "DXCP-2026-003",
+    "ngay": "2026-09-14",
+    "loai": "chi",
+    "ten_nguoi_de_xuat": "Lê Hoàng Nam",
+    "id_nguoi_de_xuat": "",
+    "ten_tai_khoan": "Vietcombank - Công ty",
+    "tong_tien": 35000000,
+    "so_tien": 35000000,
+    "ten_nguoi_duyet": "Lê Minh Công",
+    "id_nguoi_duyet": "",
+    "trang_thai": "Đã phê duyệt",
+    "ghi_chu_duyet": "Chiến dịch quảng cáo số quý 3",
+    "ghi_chu": "Chiến dịch quảng cáo số quý 3"
+  }
+]

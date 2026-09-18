@@ -1,0 +1,35 @@
+[
+  {
+    "id": "kh-001",
+    "ma_khach_hang": "KH-001",
+    "ten_khach_hang": "Tập đoàn ABC",
+    "so_dien_thoai": "0289999888",
+    "email": "contact@abc-group.vn",
+    "dia_chi": "Quận 1, TP. HCM",
+    "loai_khach_hang": "Doanh nghiệp VIP",
+    "doanh_so": 1250000000,
+    "trang_thai": "Đang hợp tác"
+  },
+  {
+    "id": "kh-002",
+    "ma_khach_hang": "KH-002",
+    "ten_khach_hang": "Công ty TNHH Minh Phát",
+    "so_dien_thoai": "0243333222",
+    "email": "info@minhphat.com",
+    "dia_chi": "Cầu Giấy, Hà Nội",
+    "loai_khach_hang": "Khách hàng thân thiết",
+    "doanh_so": 450000000,
+    "trang_thai": "Đang hợp tác"
+  },
+  {
+    "id": "kh-003",
+    "ma_khach_hang": "KH-003",
+    "ten_khach_hang": "Nguyễn Hoàng Long",
+    "so_dien_thoai": "0912345678",
+    "email": "long.nh@gmail.com",
+    "dia_chi": "Hải Châu, Đà Nẵng",
+    "loai_khach_hang": "Cá nhân",
+    "doanh_so": 65000000,
+    "trang_thai": "Tiềm năng"
+  }
+]
